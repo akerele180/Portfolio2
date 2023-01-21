@@ -265,6 +265,8 @@ body {
 .social-media h3 {
   font-family: Helvetica;
   padding: 8px 0;
+  font-size: 20px;
+  cursor: pointer;
   margin-bottom: 20px;
   font-style: italic;
   text-decoration: underline;
